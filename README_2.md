@@ -40,4 +40,5 @@ Item_Outlet_Sales which is the target.
 
 Summary of the Model and the Metrics
 
- In this project, we see 2 different models and its evaluations. The linear regression model and the decision tree. In this project our aim is to predict the Item Outlet Sales which always comes with a continuous numeric values which also makes it a linear regression problem. We used the RMSE to evaluate the accuracy of the model while we used the R2 to evaluate the percentage of variation in the target that our model can explain. 
+ In this project, we see 2 different models and its evaluations. The linear regression model and the decision tree. In this project our aim is to predict the Item Outlet Sales which always comes with a continuous numeric values which also makes it a linear regression problem. We used the RMSE to evaluate the accuracy of the model while we used the R2 to evaluate the percentage of variation in the target that our model can explain. And that's I chose to use the linear regression model in order to help predict sales. 
+ So, f
